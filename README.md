@@ -28,7 +28,7 @@ this is the final digital **V1 first-prototype fabrication package**. the latest
 whats included :
 
 - editable KiCad project, one-page schematic, PCB, local libraries and 104 linked switch models
-- editable Fusion archive and complete assembly `.step`
+- complete assembly `.step`
 - five printable `.stl` parts, with printing and assembly instructions
 - Gerber/drill ZIP, assembly BOM, placement files and release checks
 - CircuitPython USB/BLE firmware and a matrix diagnostic
