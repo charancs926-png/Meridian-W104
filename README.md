@@ -94,20 +94,17 @@ important files in this repo :
 - `PCB/Meridian W104.kicad_sch`
 - `PCB/Meridian W104.kicad_pcb`
 - `PCB/3D Models/` — portable switch models and attribution
-- `FusionFiles/Meridian-W104.f3d`
 - `CAD/Full Meridian W104/Meridian W104.step`
 - `CAD/Printing Files/` — `Bottom.stl`, `Plate.stl`, `Top Frame.stl`, `Bronze Seam Accent.stl`, `Mode Button.stl`
-- `CAD/Assembly Instructions.md`
 - `Firmware/boot.py`, `code.py`, `scanner.py`, `keymap.py`, `matrix_diagnostic.py`
 - `Fabrication/Assembly BOM.csv`
 - `Fabrication/Component Positions.csv` and `SMD Positions.csv`
 - `Fabrication/netlist.ipc` — IPC-D-356 bare-board test netlist
 - `Fabrication/Meridian-W104-PCB-Fabrication.zip`
 - `Fabrication/Gerbers/` — individual plots, job and drill files
-- `Fabrication/Manufacturing Instructions.md` and `Checks/`
-- `bom.csv` and `BOM Images/Cart Review.md`
-- `PDFs/Meridian W104.pdf` — one schematic page
-- `PDFs/PCB Editor.pdf` — six PCB layer pages
+- `bom.csv`
+- `PDFs/Meridian W104.pdf` — chematic page
+- `PDFs/PCB Editor.pdf` — PCB layer pages
 - `JOURNAL.md`
 
 ## cad
