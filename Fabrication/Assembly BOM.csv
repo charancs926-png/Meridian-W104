@@ -1,0 +1,251 @@
+﻿Reference,Value,Footprint,Side,Technology,Notes
+C1,10u / 10V,Capacitor_SMD:C_0805_2012Metric,Top,SMD,
+C2,100n,Capacitor_SMD:C_0805_2012Metric,Top,SMD,
+C3,100n,Capacitor_SMD:C_0805_2012Metric,Top,SMD,
+C4,100n,Capacitor_SMD:C_0805_2012Metric,Top,SMD,
+C5,100n,Capacitor_SMD:C_0805_2012Metric,Top,SMD,
+D1,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D10,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D100,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D101,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D102,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D103,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D104,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D11,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D12,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D13,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D14,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D15,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D16,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D17,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D18,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D19,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D2,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D20,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D21,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D22,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D23,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D24,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D25,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D26,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D27,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D28,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D29,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D3,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D30,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D31,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D32,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D33,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D34,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D35,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D36,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D37,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D38,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D39,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D4,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D40,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D41,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D42,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D43,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D44,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D45,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D46,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D47,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D48,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D49,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D5,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D50,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D51,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D52,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D53,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D54,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D55,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D56,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D57,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D58,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D59,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D6,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D60,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D61,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D62,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D63,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D64,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D65,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D66,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D67,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D68,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D69,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D7,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D70,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D71,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D72,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D73,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D74,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D75,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D76,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D77,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D78,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D79,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D8,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D80,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D81,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D82,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D83,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D84,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D85,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D86,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D87,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D88,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D89,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D9,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D90,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D91,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D92,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D93,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D94,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D95,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D96,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D97,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D98,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+D99,1N4148W,Diode_SMD:D_SOD-123,Bottom,SMD,
+J1,Protected 1S LiPo,Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,Top,THT,
+LED1,CAPS,LED_THT:LED_D3.0mm,Top,THT,
+LED2,NUM,LED_THT:LED_D3.0mm,Top,THT,
+LED3,SCROLL,LED_THT:LED_D3.0mm,Top,THT,
+R1,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R10,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R11,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R12,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R13,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R14,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R15,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R16,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R17,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R18,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R19,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R2,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R20,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R21,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R22,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R23,1k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R24,1k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R25,1k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R26,100k / OE off,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R3,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R4,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R5,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R6,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R7,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R8,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+R9,22k,Resistor_SMD:R_0805_2012Metric,Top,SMD,
+SW1,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW10,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW100,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW101,1u,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW102,1u,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW103,2u,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW104,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW105,BATTERY ON / OFF,Button_Switch_SMD:SW_SPDT_PCM12,Top,SMD,
+SW106,USB / BLE toggle,Button_Switch_THT:SW_PUSH_6mm,Top,THT,
+SW11,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW12,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW13,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW14,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW15,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW16,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW17,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW18,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW19,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW2,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW20,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW21,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW22,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW23,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW24,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW25,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW26,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW27,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW28,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW29,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW3,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW30,2u,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW31,1.5u,Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW32,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW33,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW34,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW35,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW36,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW37,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW38,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW39,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW4,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW40,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW41,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW42,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW43,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW44,1.5u,Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW45,1.75u,Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW46,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW47,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW48,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW49,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW5,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW50,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW51,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW52,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW53,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW54,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW55,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW56,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW57,2.25u,Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW58,2.25u,Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW59,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW6,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW60,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW61,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW62,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW63,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW64,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW65,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW66,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW67,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW68,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW69,2.75u,Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW7,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW70,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW71,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW72,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW73,6.25u,Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW74,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW75,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW76,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW77,1.25u,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW78,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW79,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW8,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW80,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW81,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW82,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW83,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW84,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW85,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW86,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW87,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW88,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW89,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW9,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW90,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW91,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW92,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW93,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW94,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW95,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW96,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW97,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW98,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+SW99,1u,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Top,THT,"Soldered MX PCB switches, not hot-swap."
+U1,XIAO nRF52840,Meridian:XIAO_Carrier,Top,THT,Original XIAO nRF52840 non-Plus on two 7-pin headers. BAT+/- underside pads wired to carrier pads 15/16; do not treat as header pins.
+U2,SN74HC595D,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,Top,SMD,
+U3,SN74HC165D,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,Top,SMD,
+U4,SN74HC165D,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,Top,SMD,
+U5,SN74HC165D,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,Top,SMD,
